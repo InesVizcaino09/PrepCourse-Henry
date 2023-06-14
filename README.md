@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Este es un repositorio de pueba del prep course de henry
+Ines Vizcaino
+Este es un proyecto sobre clonar y pegar desde git hub
+
